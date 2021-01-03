@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AZAMUKE DENISH"
+title                    : "Germaine Neza Hozana"
 title_separator          : "-"
-name                     : &name "Azamuke Denish"
+name                     : &name "Germaine Neza Hozana"
 description              : &description "personal description"
-url                      : https://azamukedenish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://germaineneza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/azamukedenish.github.io"
+repository               : "academicpages/germaineneza.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
